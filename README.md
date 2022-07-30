@@ -13,7 +13,7 @@ Hmm... Someone please help me write a short and simple _about_ in here...
   [Learn more about this mod here](src/docs/main/SummerCampProjectMod.md)
 
 
-* **Well, that's it so far.**<br/>
+* **Well, that's i t so far.**<br/>
   As new mods are added, this will be updated accordingly.
 
 ## How to contribute
